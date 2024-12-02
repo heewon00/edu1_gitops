@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: heewonee.azurecr.io/heewon00/edu1
-  newTag: "v1"
+- name: icishub.azurecr.io/heewon00/edu1
+  newTag: "v2"
